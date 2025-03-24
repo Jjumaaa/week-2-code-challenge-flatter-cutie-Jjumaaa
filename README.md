@@ -5,6 +5,9 @@
 Today you'll be building an app for voting for the cutest animal! You will be
 using a local API and building out the frontend for our app, Flatacuties.
 
+# Flatacuties Repo-link
+https://github.com/Jjumaaa/week-2-code-challenge-flatter-cutie-Jjumaaa.git
+
 ## Demo
 
 Use this gif as an example of how the app should work.
