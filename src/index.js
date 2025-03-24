@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(characters => {
             characters.forEach(character => {
                 const span = document.createElement("span");
-                span.textContent = character.name;
+                 span.textContent = character.name;
                 span.style.cursor = "pointer";
                 span.addEventListener("click", () => displayCharacter(character));
                 characterBar.appendChild(span);
